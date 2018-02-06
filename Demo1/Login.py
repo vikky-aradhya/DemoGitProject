@@ -17,3 +17,4 @@ driver.find_element_by_xpath("//input[@name='login']").click()
 
 sleep(5)
 driver.find_element_by_xpath("//a[text()='SIGN-OFF']").click()
+print("Hello")
